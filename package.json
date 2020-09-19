@@ -1,0 +1,22 @@
+{
+  "name": "service-component-file",
+  "version": "0.0.1",
+  "description": "文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simple-delfino/cli-template.git"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "delfino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simple-delfino/cli-template/issues"
+  },
+  "homepage": "https://github.com/simple-delfino/cli-template#readme"
+}
