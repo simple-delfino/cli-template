@@ -1,7 +1,7 @@
 {
-  "name": "service-component-file",
+  "name": "UI-component",
   "version": "0.0.1",
-  "description": "文件",
+  "description": "UI",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/simple-delfino/cli-template.git"
   },
   "keywords": [
-    "file"
+    "UI"
   ],
   "author": "delfino",
   "license": "ISC",
